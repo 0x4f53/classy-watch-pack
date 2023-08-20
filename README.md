@@ -17,5 +17,8 @@ Clone this project, locate the `.apk` files in the directory of the watch face y
 - [Omega Speedmaster 310.30.42.50.01.001 (from the Apollo 11 Moon Landings)](https://www.omegawatches.com/watch-omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001001)
 <img src = "https://www.omegawatches.com/media/catalog/product/cache/a5c37fddc1a529a1a44fea55d527b9a116f3738da3a2cc38006fcc613c37c391/o/m/omega-speedmaster-moonwatch-professional-co-axial-master-chronometer-chronograph-42-mm-31030425001001-l-92cae8.png" width = "500dp">
 
-- [Omega Skywalker X-33 318.90.45.79.01.001]([https://www.omegawatches.com/watches/speedmaster/instruments/skywalker-x-33/skywalker-x-33/product](https://www.omegawatches.com/watch-omega-speedmaster-skywalker-x-33-chronograph-45-mm-31890457901001#:~:text=Speedmaster%20Skywalker%20X%2D33%20Chronograph,01.001%20%7C%20OMEGA%C2%AE))
+- [Omega Speedmaster Skywalker X-33 318.90.45.79.01.001](https://www.omegawatches.com/watch-omega-speedmaster-skywalker-x-33-chronograph-45-mm-31890457901001#:~:text=Speedmaster%20Skywalker%20X%2D33%20Chronograph,01.001%20%7C%20OMEGA%C2%AE)\)
 <img src = "https://www.omegawatches.com/media/catalog/product/cache/a5c37fddc1a529a1a44fea55d527b9a116f3738da3a2cc38006fcc613c37c391/o/m/omega-speedmaster-skywalker-x-33-chronograph-45-mm-31890457901001-l-837ecf.png" width = "500dp">
+
+## Copyright notice
+All watches (including the logos and designs) in this repo are owned by their respective companies. Designs were made by me from scratch by trying to imitate the original products.
