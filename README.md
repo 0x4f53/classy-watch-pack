@@ -23,5 +23,5 @@ Clone this project, locate the `.apk` files in the directory of the watch face y
 -->
 
 ### Copyright notice
-All watches (including the logos and designs) in this repo are owned by their respective companies. Designs were made by me from scratch by trying to imitate the original products. Please don't sue me, I'm too young.
+All watches (including the logos and designs) in this repo are owned by their respective companies. Image files in this repo were made by me from scratch using [GIMP](https://github.com/GNOME/gimp), trying to imitate the original products. Please don't sue me, I'm too young.
  
