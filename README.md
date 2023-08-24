@@ -3,13 +3,13 @@
 
 # Classy Watch Pack
 
-A collection of my favorite timepieces replicated in Samsung Watch Studio for my Galaxy Watch 4 classic, with battery-life optimization.
+A collection of my favorite timepieces I replicated in Samsung Watch Studio for my Galaxy Watch 4 classic, with inky blacks for battery-life optimization on AMOLED displays. Won't put it on the Play Store or Galaxy Store because copyright. If you find these exact faces on there, it's probably someone trying to steal credit.
 
 ## How to install
 
 Clone this project, locate the `.apk` files in the directory of the watch face you want. Use ADB to install these onto your Wear OS 3.0+ Smartwatch. To learn how to do that, [click here](https://forum.xda-developers.com/t/how-to-install-apps-on-wear-os-all-methods.4510255/).
 
-## Available watches:
+## Available watches
 
 - [Omega Seamaster 2900.50.91 (from the movie Casino Royale)](https://www.omegawatches.com/watch-omega-seamaster-planet-ocean-big-size-29005091)
 <img src = "https://www.omegawatches.com/media/catalog/product/cache/a5c37fddc1a529a1a44fea55d527b9a116f3738da3a2cc38006fcc613c37c391/o/m/omega-seamaster-planet-ocean-big-size-29005091-l-707a76.png" width = "250dp">
@@ -23,4 +23,5 @@ Clone this project, locate the `.apk` files in the directory of the watch face y
 -->
 
 ## Copyright notice
-All watches (including the logos and designs) in this repo are owned by their respective companies. Designs were made by me from scratch by trying to imitate the original products.
+All watches (including the logos and designs) in this repo are owned by their respective companies. Designs were made by me from scratch by trying to imitate the original products. Please don't sue me, I'm too young.
+ 
