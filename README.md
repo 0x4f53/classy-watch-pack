@@ -25,3 +25,6 @@ Clone this project, locate the `.apk` files in the directory of the watch face y
 ### Copyright notice
 All watches (including the logos and designs) in this repo are owned by their respective companies, made by talented designers, engineers and watchmakers. Massive props to them. Image files in this repo were made by me from scratch using [GIMP](https://github.com/GNOME/gimp), trying to replicate them using basic geometry as much as possible. Please don't sue me, I'm too young.
  
+### Additional credits
+
+[tha700 on XDA](https://forum.xda-developers.com/m/tha700.8728579/) and [jaykay1967](https://github.com/jaykay1967) for the X-33 hands. [Original thread here](https://forum.xda-developers.com/t/download-the-omega-speedmaster-x-33-skywalker-watchface.4126089).
